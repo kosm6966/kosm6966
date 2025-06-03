@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Wrapped.]([https://myoctocat.com/assets/images/base-octocat.svg](https://api.githubtrends.io/user/svg/kosm6966/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=bright_lights))
+![GitHub Wrapped.](https://api.githubtrends.io/user/svg/kosm6966/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=bright_lights)
 
 
 
