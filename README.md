@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![GitHub Wrapped.]([https://myoctocat.com/assets/images/base-octocat.svg](https://api.githubtrends.io/user/svg/kosm6966/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=bright_lights))
+
+
+
 <!--
 **kosm6966/kosm6966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
