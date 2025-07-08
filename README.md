@@ -58,12 +58,12 @@ Developed a new multigrid ISDF approach to drastically reduce CPU and memory cos
 - [*Singlet Fission for Quantum Information: The JDE Model*, Sci. Rep. 10, 18480 (2020) ](https://www.nature.com/articles/s41598-020-75459-x)
 - [*Entangled Spin-Polarized Excitons from Singlet Fission*, Nat. Commun. 14, 1180 (2023)](https://www.nature.com/articles/s41467-023-36529-6)
 - [*Multigrids for Interpolative Separable Density Fitting*, J. Phys. Chem. A 128, 7451–7461 (2024)](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.4c02431)
-- [*Triplet-pair spin signatures from macroscopically aligned heteroacenes in an oriented single crystal*, Proc. Nat. Acad. Sci. 119, 29 (2022)](https://www.pnas.org/doi/abs/10.1073/pnas.2201879119)
+- [*Triplet-Pair Spin Signatures*, Proc. Nat. Acad. Sci. 119, 29 (2022)](https://www.pnas.org/doi/abs/10.1073/pnas.2201879119)
 
 ---
 
 ### 📫 Let’s Connect
 
-Feel free to reach out!!! <a href="mailto:\@kori.smyser@gmail.com">test\@kori.smyser@gmail.com</a>
+Feel free to reach out!!! <a href="mailto:\@kori.smyser@gmail.com">\@kori.smyser@gmail.com</a>
 
 <!-- Optionally add badges or pinned repos below -->
