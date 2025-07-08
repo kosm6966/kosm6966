@@ -28,32 +28,32 @@ Developed a new multigrid ISDF approach to drastically reduce CPU and memory cos
 
 ### 🛠 Technical Toolkit
 
-•	**Spectroscopy:** Time-resolved electron paramagnetic resonance (trEPR), Raman, vibrationally resolved UV-Vis, spatially resolved ultrafast pump-probe microscopy
+- **Spectroscopy:** Time-resolved electron paramagnetic resonance (trEPR), Raman, vibrationally resolved UV-Vis, spatially resolved ultrafast pump-probe microscopy
 - **Quantum Chemistry:**
-  o	Variational energy minimization, spin Hamiltonians, Dirac-Heisenberg exchange, spin-dipole coupling, zero-field splitting, scaling
-  o	Coupled systems, entanglement, coherence, clock transitions, quantum beats
-  o	Population & spin dynamics, diffusion, nonadiabatic transition theory, state-selective relaxation, selection rules
+  - Variational energy minimization, spin Hamiltonians, Dirac-Heisenberg exchange, spin-dipole coupling, zero-field splitting, scaling
+  - Coupled systems, entanglement, coherence, clock transitions, quantum beats
+  - Population & spin dynamics, diffusion, nonadiabatic transition theory, state-selective relaxation, selection rules
 - **Electronic Structure:**
-  o	PySCF, Gaussian
-  o	Hartree-Fock, hybrid DFT, exchange-correlation, periodic boundary conditions, excited state modeling (TD-DFT), k-points
-  o	Multigrid methods, Fast Fourier Transforms (FFT), matrix decompositions (ID, QRCP, SVD), tensor hypercontraction (THC, rPS), density fitting (RI, ISDF)
+  - PySCF, Gaussian
+  - Hartree-Fock, hybrid DFT, exchange-correlation, periodic boundary conditions, excited state modeling (TD-DFT), k-points
+  - Multigrid methods, Fast Fourier Transforms (FFT), matrix decompositions (ID, QRCP, SVD), tensor hypercontraction (THC, rPS), density fitting (RI, ISDF)
 - **Numerical Methods:**
-  o	Eigensystems, tensor contraction, linear algebra
-  o	Least-squares optimization, stochastic optimization for non-linear fitting (simulated annealing)
-  o	Monte Carlo methods, k-means clustering
-  o	Numerical methods for differential equations, integration, and interpolation
+  - Eigensystems, tensor contraction, linear algebra
+  - Least-squares optimization, stochastic optimization for non-linear fitting (simulated annealing)
+  - Monte Carlo methods, k-means clustering
+  - Numerical methods for differential equations, integration, and interpolation
 - **Programming:**
-  o	Linux, MacOS
-  o	Bash, vi, SLURM
-  o	Python, C/C++, Julia, MATLAB, Mathematica, Igor, LabView
-  o	Numpy, numba, scipy, joblib, matplotlib, pandas, pyfftw, mpi4py, h5py
-  o	OpenMP, MPI, multi-threading, high-performance computing, compilers, dependency management 
-  o	Software packaging and testing (pip, Pkg.jl), documentation, version control (Git, Github), optimization, benchmarking
+  - Linux, MacOS
+  - Bash, vi, SLURM
+  - Python, C/C++, Julia, MATLAB, Mathematica, Igor, LabView
+  - Numpy, numba, scipy, joblib, matplotlib, pandas, pyfftw, mpi4py, h5py
+  - OpenMP, MPI, multi-threading, high-performance computing, compilers, dependency management 
+  - Software packaging and testing (pip, Pkg.jl), documentation, version control (Git, Github), optimization, benchmarking
 
 
 ---
 
-### 📄 Publications
+### 📄 Selected Publications
 
 - [*Singlet Fission for Quantum Information: The JDE Model*, Sci. Rep. 10, 18480 (2020) ](https://www.nature.com/articles/s41598-020-75459-x)
 - [*Entangled Spin-Polarized Excitons from Singlet Fission*, Nat. Commun. 14, 1180 (2023)](https://www.nature.com/articles/s41467-023-36529-6)
