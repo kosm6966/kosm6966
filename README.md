@@ -64,6 +64,6 @@ Developed a new multigrid ISDF approach to drastically reduce CPU and memory cos
 
 ### 📫 Let’s Connect
 
-Feel free to reach out!!! <a href="mailto:\@kori.smyser@gmail.com">\@kori.smyser@gmail.com</a>
+Feel free to reach out!!! <a href="mailto:\kori.smyser@gmail.com">kori.smyser@gmail.com</a>
 
 <!-- Optionally add badges or pinned repos below -->
