@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kori Smyser
+# Hi, I'm Kori Smyser
 
 Ph.D. in Theoretical Chemical Physics | Quantum Computing | Scientific Software Developer
 
